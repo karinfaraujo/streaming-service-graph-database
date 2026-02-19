@@ -106,9 +106,11 @@ ORDER BY actor
 
 ## Project Files
 
-streaming_graph.cypher → Database creation script
-
 graph_model.png → Graph schema diagram
+
+streaming_graph.cql → Database creation script
+
+visualization.png → image of nodes and relationships
 
 README.md → Project documentation
 
